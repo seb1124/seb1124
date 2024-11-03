@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 I'm currently working on a short-form content generation app<br><br>🌱 I'm currently learning React & Typescript
+💻 I'm currently working on a short-form content generation app<br><br>🌱 I'm currently learning React & Typescript<br><br>💡 I'm passionate about full-stack software development & machine learning
 
 
 # 💻 Tech Stack:
